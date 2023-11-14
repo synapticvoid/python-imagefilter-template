@@ -1,0 +1,2 @@
+textual==0.41.0
+textual_web==0.5.4
